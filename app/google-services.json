@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196506750143",
+    "project_id": "whatsapp-login-97c4b",
+    "storage_bucket": "whatsapp-login-97c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196506750143:android:5c36a7e285307af6664a0a",
+        "android_client_info": {
+          "package_name": "com.example.whatsapplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196506750143-8c9cfcav4r67jub6jq7eg56ii97an5k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKNtZ7ogDmL5SuT8PdqM4UqUcXDX1RhTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196506750143-8c9cfcav4r67jub6jq7eg56ii97an5k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

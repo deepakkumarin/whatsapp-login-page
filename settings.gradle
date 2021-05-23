@@ -1,0 +1,2 @@
+rootProject.name = "Whatsapp Login"
+include ':app'
